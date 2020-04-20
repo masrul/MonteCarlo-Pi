@@ -92,6 +92,6 @@ interval=(duration*1000)/nframes
 
 ani = animation.ArtistAnimation(fig,ims,interval=interval)
 ani.save('pi.mp4',fps=fps, dpi=100)
-ani.save('pi.gif', dpi=100,writer='imagemagick')
+ani.save('pi.gif', dpi=200,writer='imagemagick')
 
 plt.show() 
