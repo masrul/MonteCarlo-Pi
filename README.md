@@ -1,6 +1,6 @@
 # Approximating $\pi$ using Monte Carlo sampling 
 
-The value of $\pi$ can be obtained using the ratio of area of circle and area of square. Let, a circle with radius $a$ is inscribed inside a square (side= 2 $a$). 
+The value of $\pi$ can be obtained using the ratio of area of circle and area of square. Let, a circle with radius $a$ is inscribed inside a square (side = 2$a$). 
 
 Area of square = $4a^2$ <br />
 Area of circle = $\pi r^2$ <br />
